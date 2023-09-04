@@ -1,3 +1,6 @@
+#the code is based on the karen.model imported from tensor flow. for image classifcation
+
+
 # my_project1234
 # contains codes for my projects
 
